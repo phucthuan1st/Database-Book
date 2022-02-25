@@ -1,4 +1,4 @@
-# Database-Book
+# Database Book
 3 books for Database learning
 
 ## This repo include 3 books: 
